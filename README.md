@@ -1,3 +1,5 @@
+Pro pouziti programu spust main.py v terminalu. Muzes si vybrat jake funkce se vyctou do grafu. Vyber: linear, quadratic, sin, exp, custom (logaritmus)
+
 Experimentování s funkcí
 
 Pro experimentování byla vybrána kvadratická funkce.
